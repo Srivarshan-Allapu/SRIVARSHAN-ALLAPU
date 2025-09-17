@@ -166,7 +166,7 @@ print(f"Motto: {srivarshan.get_motto()}")
       <td width="50%">
         <h3 align="center">🍽 Zomato Sales Analytics</h3>
         <div align="center">
-          <a href="https://github.com/Srivarshan-Allapu/zomato-sales-analytics" target="_blank">
+          <a href=https://github.com/Srivarshan-Allapu/Zomato-Restaurant-Orders-Analysis-Using-SQL target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivarshan-Allapu&repo=zomato-sales-analytics&theme=tokyonight" alt="Zomato Analytics"/>
           </a>
           <br><br>
