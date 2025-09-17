@@ -102,7 +102,7 @@ print(f"Motto: {srivarshan.get_motto()}")
 <div align="center">
 
 ### 💻 *Programming Languages*
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,java" />
 
 ### 📊 *Data Analytics & BI*
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -114,7 +114,6 @@ print(f"Motto: {srivarshan.get_motto()}")
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 <br>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTIgMjJNMTIgMkw0IDZWMThMMTIgMjJMMTIgMkwyMCA2VjE4TDEyIDIyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+&logoColor=white" alt="SSMS"/>
 
 ### ☁ *Cloud & Tools*
 <img src="https://skillicons.dev/icons?i=git,github,azure" />
