@@ -179,9 +179,9 @@ print(f"Motto: {srivarshan.get_motto()}")
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">💹 Financial Anomaly Detection</h3>
+        <h3 align="center">💹 Product Sales Analysis</h3>
         <div align="center">
-          <a href="https://github.com/Srivarshan-Allapu/financial-anomaly-detection" target="_blank">
+          <a href=https://github.com/Srivarshan-Allapu/Product-Sales-Analysis-With-Postgrsql target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivarshan-Allapu&repo=financial-anomaly-detection&theme=tokyonight" alt="Financial Anomaly"/>
           </a>
           <br><br>
