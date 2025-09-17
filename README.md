@@ -86,7 +86,9 @@ print(f"Motto: {srivarshan.get_motto()}")
 
 | 🎖 *Certification* | 🏢 *Provider* | 📋 *Category* | 🔗 *Status* |
 |:---:|:---:|:---:|:---:|
-| *Data Analytics Virtual Internship* | Deloitte (Forage),Accenture (Forage), Tata (Forage) | Analytics & BI | ✅ *Completed* |
+| *Data Analytics Virtual Internship* | Deloitte (Forage) | Analytics & BI | ✅ *Completed* |
+| *Data Analytics Virtual Internship* | Accenture (Forage) | Analytics & BI | ✅ *Completed* |
+| *Data Analytics Virtual Internship* | Tata (Forage) | Analytics & BI | ✅ *Completed* |
 | *Database Engineer (SQL)* | Meta / HackerRank | Databases | ✅ *Certified* |
 | *Power BI Dashboarding* | Microsoft Learn | Business Intelligence | ✅ *Completed* |
 | *Theory Of Computation* | NPTEL | Computer Science | ✅ *Certified* |
