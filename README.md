@@ -223,33 +223,42 @@ print(f"Motto: {srivarshan.get_motto()}")
 ---
 
 ## 🚀 Current Learning Journey
-
 <div align="center">
 
 ```mermaid
+%%{init: {"theme": "default", "themeVariables": {
+  "background": "#ffffff",
+  "primaryColor": "#e0f7fa",
+  "primaryTextColor": "#000000",
+  "primaryBorderColor": "#00acc1",
+  "lineColor": "#00796b",
+  "secondaryColor": "#b2dfdb",
+  "tertiaryColor": "#80cbc4"
+}}}%%
 mindmap
-  root((Srivarshan's Learning Path))
-    Advanced SQL
-      Window Functions Mastery
-      Query Optimization Techniques
-      Complex Joins & Subqueries
-      Performance Tuning
-    Data Structures & Algorithms
-      Dynamic Programming
-      Graph Algorithms
-      Competitive Programming
-      Problem Solving Strategies
-    Business Intelligence
-      Advanced Power BI Dashboards
-      Data Modeling Best Practices
-      ETL Pipeline Development
-      Real-time Analytics
-    Web Development
-      Interactive Data Visualizations
-      JavaScript Framework Integration
-      Responsive Dashboard Design
-      Full-Stack Development
+  root((🧠 Srivarshan's Learning Path))
+    🌐 Advanced SQL
+      ⚙️ Window Functions Mastery
+      🚀 Query Optimization Techniques
+      🔗 Complex Joins & Subqueries
+      ⚡ Performance Tuning
+    🧩 Data Structures & Algorithms
+      🌀 Dynamic Programming
+      🕸 Graph Algorithms
+      🏆 Competitive Programming
+      🧭 Problem Solving Strategies
+    📊 Business Intelligence
+      📈 Advanced Power BI Dashboards
+      🧮 Data Modeling Best Practices
+      🔄 ETL Pipeline Development
+      ⏱ Real-time Analytics
+    💻 Web Development
+      📊 Interactive Data Visualizations
+      ⚛️ JavaScript Framework Integration
+      🧱 Responsive Dashboard Design
+      🌍 Full-Stack Development
 ```
+
 
 </div>
 
